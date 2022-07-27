@@ -6,6 +6,10 @@
 
 ---
 
+[![Welcome to MadeByRaymond Image](madebyraymond-intro.gif)](https://madebyraymond.io)
+
+---
+
 <p>
   
   [![Github - MadeByRaymond](https://img.shields.io/badge/Github-12100E.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/madebyraymond)
@@ -17,10 +21,6 @@
   [![Awwwards - MadeByRaymond](social_buttons/AWWWARDS.svg)](https://www.awwwards.com/jury-member/MadeByRaymond)
 <!--   [![Personal Website - MadeByRaymond](social_buttons/WEBSITE.svg)](https://madebyraymond.io) -->
 </p>
-
----
-
-[![Welcome to MadeByRaymond Image](madebyraymond-intro.gif)](https://madebyraymond.io)
 
 <!-- - 🌱 I’m currently learning Blockchain -->
 
