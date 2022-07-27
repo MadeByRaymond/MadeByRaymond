@@ -4,8 +4,6 @@
 - I’m looking to collaborate on solutions that solve problems for the world 💞️re
 - 📫 How to reach me: Visit my page <a href="https://madebyraymond.io">madebyraymond.io</a>
 
-[![Welcome to MadeByRaymond Image](madebyraymond-intro.gif)](https://madebyraymond.io)
-
 ---
 
 <p>
@@ -19,6 +17,10 @@
   [![Awwwards - MadeByRaymond](social_buttons/AWWWARDS.svg)](https://www.awwwards.com/jury-member/MadeByRaymond)
 <!--   [![Personal Website - MadeByRaymond](social_buttons/WEBSITE.svg)](https://madebyraymond.io) -->
 </p>
+
+---
+
+[![Welcome to MadeByRaymond Image](madebyraymond-intro.gif)](https://madebyraymond.io)
 
 <!-- - 🌱 I’m currently learning Blockchain -->
 
