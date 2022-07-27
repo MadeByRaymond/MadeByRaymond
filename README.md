@@ -5,6 +5,8 @@
 - 📫 How to reach me: Visit my page <a href="https://madebyraymond.io">madebyraymond.io</a>
 - More to come...
 
+[![Welcome to MadeByRaymond Image](madebyraymond-intro.gif)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 <!-- - 🌱 I’m currently learning Blockchain -->
 
 <!---
