@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Daniel Raymond
-- I’m a UX Developer. In a nutshell, I just sit at my shiny computer all day long designing snazzy systems for cool folks from around the world😋
+### 👋 Hi, I’m Daniel Raymond
+I’m a UX Developer. In a nutshell, I just sit at my shiny computer all day long designing snazzy systems for cool folks from around the world😋. Currently the Lead Product Developer @[Byteworks](https://byteworks.com.ng)
 - I’m interested in Art🎨, Tech👨🏼‍💻, Music🎷, Science🧪, Space and Time🌌
 - I’m looking to collaborate on solutions that solve problems for the world 💞️re
-- 📫 How to reach me: Visit my page <a href="https://madebyraymond.io">madebyraymond.io</a>
+- 📫 How to reach me: Visit my page <a href="https://madebyraymond.io">madebyraymond.io</a>  |  Send a mail madebyraymond@gmail.com
 
 ---
 
 [![Welcome to MadeByRaymond Image](madebyraymond-intro.gif)](https://madebyraymond.io)
+
+---
+
+[![Daniel Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=madebyraymond&show_icons=true&hide=&count_private=true&title_color=000&text_color=000&icon_color=000&bg_color=fff&hide_border=true&show_icons=true)](http://www.github.com/madebyraymond)
+[![Daniel Raymond's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=madebyraymond&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true)](http://www.github.com/madebyraymond)
+</p>
 
 ---
 
