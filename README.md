@@ -9,12 +9,9 @@
 ---
 
 <p>
-  <a href="https://github.com/madebyraymond">
-    <img alt="Github - MadeByRaymond" src="https://img.shields.io/badge/Github-12100E.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://twitter.com/KensByRaymond" target="_blank">
-    <img alt="Twitter - KensByRaymond" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=FFFFFF" />
-  </a>
+  
+  [![Github - MadeByRaymond](https://img.shields.io/badge/Github-12100E.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/madebyraymond)
+  [![Twitter - KensByRaymond](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/KensByRaymond)
   <a href="https://www.linkedin.com/in/daniel-obiekwe/" target="_blank">
     <img alt="LinkedIn - Daniel Obiekwe" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
