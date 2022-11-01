@@ -12,7 +12,7 @@ I’m a UX Developer. In a nutshell, I just sit at my shiny computer all day lon
 
 <p align="left">
   <a href="http://www.github.com/madebyraymond"><img src="https://github-readme-stats.vercel.app/api?username=madebyraymond&show_icons=true&hide=&count_private=true&title_color=000&text_color=000&icon_color=000&bg_color=fff&hide_border=true&show_icons=true" alt="Daniel Raymond's GitHub stats" width="420px">
-  <a href="http://www.github.com/madebyraymond"><img src="[https://github-readme-streak-stats.herokuapp.com/?user=julien-deramond&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=madebyraymond&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true)" alt="Daniel Raymond's GitHub stats" width="420px">
+  <a href="http://www.github.com/madebyraymond"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyraymond&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" alt="Daniel Raymond's GitHub stats" width="420px">
   </a>
 </p>
 
